@@ -1,1 +1,1 @@
-A fun memory match game (dog-themed!!!)
+A fun memory match game (dog-themed)!
